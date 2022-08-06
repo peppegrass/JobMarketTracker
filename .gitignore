@@ -10,7 +10,7 @@
 *.dvi
 *.synctex.gz
 # Ignore compiled pdf
-*.pdf
+#*.pdf
 # Ignore logs
 *.out
 *.err
